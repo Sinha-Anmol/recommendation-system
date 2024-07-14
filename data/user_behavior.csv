@@ -1,0 +1,7 @@
+user_id,content_id,interaction_type
+1,101,like
+1,102,view
+2,101,view
+2,103,like
+3,104,view
+3,105,comment
